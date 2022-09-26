@@ -5,14 +5,14 @@ Features:
 
 [ * ] Highest Quality Video Download
 
-Soon:
+Version 2.0:
 
 [ * ] Auto-Download of dependencies
 
-[ * ] More video file formats
+[ * ] More video formats
 
 [ * ] Audio Download
 
-[ * ] Download Video with Transcription included
+[ * ] Download Video with Subtitles
 
-[ * ] Video Transcription
+[ * ] Video Subtitles
