@@ -7,6 +7,8 @@ Features:
 
 Soon:
 
+[ * ] Auto-Download of dependencies
+
 [ * ] More video file formats
 
 [ * ] Audio Download
